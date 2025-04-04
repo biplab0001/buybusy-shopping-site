@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 🚀 Features
+
+- ✅ User Sign Up and Sign In (with localStorage)
+- 🛒 Add items to cart
+- 📦 View past orders (based on cart contents)
+- 🔐 Authentication using Redux Toolkit
+- 🎨 Stylish and responsive UI
+
+## 📦 Technologies Used
+
+- **React.js**
+- **Redux Toolkit**
+- **React Router DOM**
+- **CSS (modular, page-level)**
+
 ## Available Scripts
 
 In the project directory, you can run:
