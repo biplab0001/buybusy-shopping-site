@@ -1,0 +1,79 @@
+.cart-container {
+  max-width: 800px;
+  margin: 20px auto; /* Added margin for better spacing */
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.cart-item img {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.cart-buttons {
+  display: flex;
+  align-items: center;
+}
+
+.cart-buttons button {
+  margin: 0 5px;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  background-color: #4caf50; /* Add a background color */
+  color: white; /* Set text color to white */
+  border-radius: 5px; /* Add some border radius */
+}
+
+.cart-buttons button:hover {
+  background-color: #388e3c; /* Darken the color on hover */
+}
+
+.cart-buttons button:disabled {
+  background-color: #ddd; /* Gray out the button if disabled */
+  color: #999;
+  cursor: not-allowed; /* Change cursor to "not-allowed" */
+}
+
+.cart-buttons button:disabled:hover {
+  background-color: #ddd; /* Keep the same background color on hover when disabled */
+}
+
+.remove-btn {
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.remove-btn:hover {
+  background-color: darkred;
+}
+
+.purchase-button {
+  background-color: #007bff; /* A nice blue color */
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px; /* Adds some space between the cart items and the purchase button */
+}
+
+.purchase-button:hover {
+  background-color: #0056b3; /* Darken the color on hover */
+}

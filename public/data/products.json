@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Jacket",
+      "price": 4999,
+      "type": "Men's cloth",
+      "imageUrl": "https://5.imimg.com/data5/IE/YI/MY-53110779/mens-jacket-500x500.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Woman's Cloth",
+      "price": 3999,
+      "type": "Women's cloth",
+      "imageUrl": "https://images.meesho.com/images/products/75013827/rtbk5_512.webp"
+    },
+    {
+      "id": 3,
+      "name": "Smart Watch",
+      "price": 9999,
+      "type": "Electronics",
+      "imageUrl": "https://assets.ajio.com/medias/sys_master/root/20231120/Otb5/655b6478ddf77915198e3c8a/-473Wx593H-466811406-orange-MODEL2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Diamond Ring",
+      "price": 19999,
+      "type": "Jewellery",
+      "imageUrl": "https://www.voylla.com/cdn/shop/products/BPBOM20144_CS.jpg?v=1659177310"
+    },
+    {
+      "id": 5,
+      "name": "Sneakers",
+      "price": 5999,
+      "type": "Men's cloth",
+      "imageUrl": "https://m.media-amazon.com/images/I/514WMMggmZL._AC_UY1100_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Salwar",
+      "price": 2999,
+      "type": "Women's cloth",
+      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71mX4WATh-L._AC_UL330_SR330,330_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Wireless Earbuds",
+      "price": 8999,
+      "type": "Electronics",
+      "imageUrl": "https://m.media-amazon.com/images/I/81xU7z191wL.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Gold Necklace",
+      "price": 24999,
+      "type": "Jewellery",
+      "imageUrl": "https://www.sarafrsjewellery.com/cdn/shop/files/2023-10-1811-28-19_CVDS_4024.jpg?v=1736146008"
+    }
+  ]
+  

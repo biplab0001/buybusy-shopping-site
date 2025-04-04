@@ -1,0 +1,38 @@
+.sidebar {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-right: 1px solid #ddd;
+    width: 250px;
+  }
+  
+  .sidebar h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .sidebar input[type="text"],
+  .sidebar input[type="number"],
+  .sidebar select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box; /* Makes padding and border included in the element's total width and height */
+  }
+  
+  .sidebar button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .sidebar button:hover {
+    background-color: #45a049;
+  }
+  
